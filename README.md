@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Joshua, a Fullstack Software Engineer based in Germany. I build scalable fullstack solutions for fast-growing startups. From intuitive user interfaces to robust backend systems, I craft applications that delight and inspire users.
+Hi! I'm Joshua, a Fullstack Software Engineer based in Germany. I build scalable fullstack solutions. From intuitive user interfaces to robust backend systems, I craft applications that delight and inspire users.
 ---
 
 ## 🌐 Socials:
